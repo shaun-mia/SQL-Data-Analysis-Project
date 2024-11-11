@@ -1,4 +1,5 @@
-### Project Title: AIRBNB Outlier Detection and EDA
+###  AIRBNB Outlier Detection and EDA
+The AIRBNB Outlier Detection and EDA project involved analyzing Airbnb listings to identify anomalies in pricing, customer satisfaction, and other metrics. This SQL-based project provided insights through exploratory data analysis, helping to highlight patterns and outliers for better decision-making.
 
 ---
 
